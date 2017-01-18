@@ -38,6 +38,6 @@ ffmpeg -i Starcraft_2_-_INnoVation_vs__Stats__TvP__-_Grand_Final_-_Map_1_-_IEM_G
 docs
 ----
 
-generic: http://www.ibm.com/watson/developercloud/doc/speech-to-text/http.shtml
-audio codecs information: http://www.ibm.com/watson/developercloud/doc/speech-to-text/input.shtml#formats
-docs: http://www.ibm.com/watson/developercloud/speech-to-text/api/v1/#recognize_sessionless_nonmp12
+* generic: http://www.ibm.com/watson/developercloud/doc/speech-to-text/http.shtml
+* audio codecs information: http://www.ibm.com/watson/developercloud/doc/speech-to-text/input.shtml#formats
+* docs: http://www.ibm.com/watson/developercloud/speech-to-text/api/v1/#recognize_sessionless_nonmp12
