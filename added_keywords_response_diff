@@ -1,0 +1,108 @@
+529,538c529
+<          "keywords_result": {
+<             "\"tasteless\"": [
+<                {
+<                   "normalized_text": "tasteless", 
+<                   "start_time": 37.29, 
+<                   "confidence": 0.753, 
+<                   "end_time": 38.0
+<                }
+<             ]
+<          }, 
+---
+>          "keywords_result": {}, 
+2294,2303c2285
+<          "keywords_result": {
+<             "\"tasteless\"": [
+<                {
+<                   "normalized_text": "tasteless", 
+<                   "start_time": 93.95, 
+<                   "confidence": 0.587, 
+<                   "end_time": 94.6
+<                }
+<             ]
+<          }, 
+---
+>          "keywords_result": {}, 
+4436c4418
+7769,7778c7751
+<          "keywords_result": {
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 249.35, 
+<                   "confidence": 0.86, 
+<                   "end_time": 249.97
+<                }
+<             ]
+<          }, 
+---
+>          "keywords_result": {}, 
+10930,10937d10902
+<             ], 
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 345.4, 
+<                   "confidence": 0.907, 
+<                   "end_time": 345.81
+<                }
+11938c11903
+13827,13836c13792
+<          "keywords_result": {
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 430.12, 
+<                   "confidence": 0.833, 
+<                   "end_time": 430.46
+<                }
+<             ]
+<          }, 
+---
+>          "keywords_result": {}, 
+14419,14428c14375
+<          "keywords_result": {
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 450.78, 
+<                   "confidence": 0.93, 
+<                   "end_time": 451.15
+<                }
+<             ]
+<          }, 
+---
+18611,18620c18558
+<          "keywords_result": {
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 571.28, 
+<                   "confidence": 0.521, 
+<                   "end_time": 571.65
+<                }
+<             ]
+<          }, 
+---
+>          "keywords_result": {}, 
+19847,19854d19784
+<             ], 
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 607.74, 
+<                   "confidence": 0.581, 
+<                   "end_time": 608.05
+<                }
+20844,20851d20773
+<             ], 
+<             "\"phoenix\"": [
+<                {
+<                   "normalized_text": "Phoenix", 
+<                   "start_time": 634.06, 
+<                   "confidence": 0.57, 
+<                   "end_time": 634.35
+<                }
+22279c22201
+<                      "confidence": 0.9202, 

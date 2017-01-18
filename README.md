@@ -38,6 +38,16 @@ ffmpeg -i Starcraft_2_-_INnoVation_vs__Stats__TvP__-_Grand_Final_-_Map_1_-_IEM_G
 ```
 
 
+Adding Keywords
+---------------
+
+By adding more keywords to the keyword search I was able to change the responses. See the diff in this repository. It was able to better pick out words that were already in the dictionary like 'tasteless' and 'phoenix' but it didn't add new words like 'medivac.'
+
+
+From the docs: " Custom models provides an HTTP interface for creating custom language models. The interface lets you expand the vocabulary of a base language model with domain-specific terminology." This will be investigated next.
+
+
+
 docs
 ----
 
