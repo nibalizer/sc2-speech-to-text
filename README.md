@@ -7,8 +7,8 @@ to enjoy
 --------
 
 
-open [this video](https://www.youtube.com/watch?v=R0UdE-3hVBk)
-run ``python readout.py``
+* open [this video](https://www.youtube.com/watch?v=R0UdE-3hVBk)
+* run ``python readout.py``
 
 
 watson request
