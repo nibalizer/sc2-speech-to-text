@@ -21,6 +21,9 @@ curl -s -X POST -u "username":"password" \
 "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize?timestamps=true&word_alternatives_threshold=0.9&keywords=%22stats%22%2C%22build%22%2C%22innovation%22&keywords_threshold=0.5&continuous=true" > response.json
 ```
 
+note: this took 9m44s for watson to return
+
+
 youtube link
 -------------
 
